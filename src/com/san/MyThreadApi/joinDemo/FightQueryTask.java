@@ -6,6 +6,7 @@ import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * 查询各大航空公司数据
  * @Auther: Gxyx
  * @Date: 2020/11/21/16:31
  */
