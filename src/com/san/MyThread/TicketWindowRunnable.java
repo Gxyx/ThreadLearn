@@ -11,6 +11,7 @@ public class TicketWindowRunnable implements Runnable {
 
     private  int index = 1;
 
+
     @Override
     public void run() {
         while (index<=MAX){

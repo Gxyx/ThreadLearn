@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
  * @Auther: Gxyx
  * @Date: 2020/11/21/14:27
  */
-public class Threadinterrupted {
+public class  Threadinterrupted {
     public static void main(String[] args) throws InterruptedException {
         Thread thread = new Thread(){
             @Override
